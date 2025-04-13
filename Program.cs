@@ -94,8 +94,8 @@ namespace Public_AllInOneManager
                 do
                 {
                     string[] opcjeMenu = new string[7]{
-                    "> SystemInfo",
-                    "> Tworzenie folderów",
+                    "> M-Diag - SystemInfo",
+                    "> Fold8 - Tworzenie folderów",
                     "> Instrukcja obsługi",
                     "> Historia logowania",
                     "> O programie",
