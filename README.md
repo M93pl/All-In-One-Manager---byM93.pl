@@ -3,6 +3,7 @@
 ### Prosty program pokazujący możliwości aplikacji konsolowych systemu Windows.
 Program umożliwia tworzenie wielu folderów jednocześnie (ponad 100 tysięcy). Prowadzi także podstawową diagnostykę komputera. Aplikacja zapisuje informacje o logowaniu do programu i prowadzi statystyki wejść.
 <br>ver. 0.5
+<br><br>
 
 ~~~~~~~~~~~~~~~~~~~~~~
 ver. 0.2
