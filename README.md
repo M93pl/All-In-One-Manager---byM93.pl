@@ -3,8 +3,6 @@
 ### Prosty program pokazujący możliwości aplikacji konsolowych systemu Windows.
 
 ver. 0.5
-Wszelkie prawa zastrzeżone M93.pl (c) 2025
-www.m93.pl
 
 ~~~~~~~~~~~~~~~~~~~~~~
 ver. 0.2
@@ -19,3 +17,17 @@ ver. 0.3
 ver. 0.5
 - dodano instrukcje obsługi
 ~~~~~~~~~~~~~~~~~~~~~~
+
+<br><br>
+https://www.m93.pl
+=================================
+
+----------------------
+contact:
+info@m93.pl
+contact@m93.pl
+<br><br>
+Wszelkie prawa zastrzeżone:<br>
+All rights reserved by:
+<br><br>
+M93.pl (c) 2025
