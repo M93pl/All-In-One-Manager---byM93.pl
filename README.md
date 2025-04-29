@@ -2,7 +2,12 @@
 ## C#
 ### Prosty program pokazujący możliwości aplikacji konsolowych systemu Windows.
 Program umożliwia tworzenie wielu folderów jednocześnie (ponad 100 tysięcy). Prowadzi także podstawową diagnostykę komputera. Aplikacja zapisuje informacje o logowaniu do programu i prowadzi statystyki wejść.
-<br>ver. 0.5
+<br>ver. 0.5<br>
+
+Skompilowany program można pobrać z:<br>
+https://m93.pl/Upload/Files/InstallAllInOneManager.exe<br>
+lub z mojego repozytorium publicznego:<br>
+https://github.com/M93pl/----_P_U_B_L_I_C_----<br>
 <br><br>
 
 ~~~~~~~~~~~~~~~~~~~~~~
